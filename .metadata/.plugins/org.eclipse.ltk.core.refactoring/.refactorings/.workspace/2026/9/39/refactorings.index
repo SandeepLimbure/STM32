@@ -1,0 +1,6 @@
+1790058321641	Delete 9 resources
+1790058329031	Delete resource 'GPIO_Q4/Core/Src/anticlockwise.c'
+1790058332920	Delete resource 'GPIO_Q4/Core/Src/clockwise.c'
+1790058337903	Delete resource 'GPIO_Q4/Core/Inc/anticlockwise.h'
+1790058342074	Delete resource 'GPIO_Q4/Core/Inc/clockwise.h'
+1790058382129	Delete resource 'GPIO_Q4/Core/Inc/Clockwise_Anticlockwise_Sequence.h'

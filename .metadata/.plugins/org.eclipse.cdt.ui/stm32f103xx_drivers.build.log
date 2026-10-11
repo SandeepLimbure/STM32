@@ -1,0 +1,10 @@
+15:45:21 **** Incremental Build of configuration Debug for project stm32f103xx_drivers ****
+make -j8 all 
+arm-none-eabi-size  stm32f103xx_drivers.elf 
+   text	   data	    bss	    dec	    hex	filename
+   9436	    100	   2076	  11612	   2d5c	stm32f103xx_drivers.elf
+Finished building: default.size.stdout
+ 
+
+15:45:21 Build Finished. 0 errors, 0 warnings. (took 315ms)
+

@@ -1,0 +1,15 @@
+2026-07-10 00:17:30,958 [INFO] WebApp:354 - JxBrowser engine has been closed 
+2026-07-10 19:55:53,059 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 893102144 Bytes (1073741824)
+2026-07-10 19:55:53,090 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-07-10 19:55:53,090 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-07-10 19:55:53,090 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-07-10 19:55:53,220 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2026-07-10 19:55:53,220 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2026-07-10 19:55:53,221 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2026-07-10 19:55:53,221 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2026-07-10 19:55:53,221 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2026-07-10 19:55:58,031 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 910456304 Bytes (1073741824)
+2026-07-10 19:55:58,059 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-07-10 19:55:58,060 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-07-10 19:55:58,061 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-07-10 19:55:58,156 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 927182912 Bytes (1073741824)

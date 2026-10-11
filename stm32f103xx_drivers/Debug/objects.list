@@ -1,0 +1,5 @@
+"./Src/008_spi_cmd_handling.o"
+"./Src/sysmem.o"
+"./Startup/startup_stm32f103rbtx.o"
+"./drivers/Src/stm32f103xx_gpio_driver.o"
+"./drivers/Src/stm32f103xx_spi_driver.o"

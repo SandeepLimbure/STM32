@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;GPIO_Q4/Core/Inc/Clockwise_Anticlockwise_Sequence&apos; to &apos;Clockwise_Anticlockwise_Sequence.h&apos;" description="Rename resource &apos;Clockwise_Anticlockwise_Sequence&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Core/Inc/Clockwise_Anticlockwise_Sequence" name="Clockwise_Anticlockwise_Sequence.h" stamp="1790058374988" updateReferences="true"/>
+</session>

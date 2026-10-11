@@ -1,0 +1,10 @@
+15:28:32 **** Incremental Build of configuration Debug for project temperature ****
+make -j8 all 
+arm-none-eabi-size  temperature.elf 
+   text	   data	    bss	    dec	    hex	filename
+  30344	    480	   2272	  33096	   8148	temperature.elf
+Finished building: default.size.stdout
+ 
+
+15:28:33 Build Finished. 0 errors, 0 warnings. (took 340ms)
+
